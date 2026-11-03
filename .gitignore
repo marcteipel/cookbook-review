@@ -1,0 +1,11 @@
+*.zip
+*.pdf
+*.docx
+*.jpg
+*.jpeg
+*.json
+.env
+.env.*
+node_modules/
+test-results/
+cookbook-review-private/

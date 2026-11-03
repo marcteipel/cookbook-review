@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Yemek Kitabı — family cookbook review",
+  "short_name": "Yemek Kitabı",
+  "description": "Review handwritten passages privately, one at a time.",
+  "lang": "en",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#261f2b",
+  "theme_color": "#261f2b",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
