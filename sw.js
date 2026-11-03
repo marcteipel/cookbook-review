@@ -1,5 +1,5 @@
-const CACHE = "cookbook-shell-66545be89f908d2d";
-const SHELL = ["./app.js","./chunk-WAST323Y.js","./chunk-RKIYNCH6.js","./index.html","./style.css","./manifest.webmanifest","./icon.svg","./icon-192.png","./icon-512.png"];
+const CACHE = "cookbook-shell-9de0239d62cb52a2";
+const SHELL = ["./app.js","./chunk-YXWBUHP2.js","./chunk-WOKTETAT.js","./index.html","./style.css","./manifest.webmanifest","./icon.svg","./icon-192.png","./icon-512.png"];
 self.addEventListener("install", event => {
   event.waitUntil(caches.open(CACHE).then(cache => cache.addAll(SHELL)));
 });
